@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-18T17:47:22 IST" name="Default suite" finished-at="2023-01-18T17:47:57 IST" duration-ms="35823">
+    <groups>
+    </groups>
+    <test started-at="2023-01-18T17:47:22 IST" name="Default test" finished-at="2023-01-18T17:47:57 IST" duration-ms="35823">
+      <class name="loginPage.LoginPage">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:22 IST" name="BrowserSetup" finished-at="2023-01-18T17:47:35 IST" duration-ms="12972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TestFailedLogin()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:35 IST" name="TestFailedLogin" finished-at="2023-01-18T17:47:35 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFailedLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:35 IST" name="afterMethod" finished-at="2023-01-18T17:47:35 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:35 IST" name="BrowserSetup" finished-at="2023-01-18T17:47:43 IST" duration-ms="7606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TestFailedLogin1()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:43 IST" name="TestFailedLogin1" finished-at="2023-01-18T17:47:43 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFailedLogin1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:43 IST" name="afterMethod" finished-at="2023-01-18T17:47:44 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:44 IST" name="BrowserSetup" finished-at="2023-01-18T17:47:49 IST" duration-ms="5353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TestFailedLogin2()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:49 IST" name="TestFailedLogin2" finished-at="2023-01-18T17:47:49 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFailedLogin2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:49 IST" name="afterMethod" finished-at="2023-01-18T17:47:50 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:50 IST" name="BrowserSetup" finished-at="2023-01-18T17:47:56 IST" duration-ms="5933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TestSuccessfulLogin()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:56 IST" name="TestSuccessfulLogin" finished-at="2023-01-18T17:47:57 IST" duration-ms="1075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSuccessfulLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:loginPage.LoginPage@6d4e5011]" started-at="2023-01-18T17:47:57 IST" name="afterMethod" finished-at="2023-01-18T17:47:57 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- loginPage.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
